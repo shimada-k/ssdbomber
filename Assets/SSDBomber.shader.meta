@@ -1,0 +1,6 @@
+fileFormatVersion: 2
+guid: dfbb5e285f0c443b88ec665fa883dad5
+ShaderImporter:
+  defaultTextures:
+  - _SSDBTex: {fileID: 2800000, guid: bbd3b156a54cb44af90e3e21bf853d63, type: 3}
+  userData: 
